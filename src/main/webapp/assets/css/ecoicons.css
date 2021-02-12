@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'ecoicons';
+	src: url(../fonts/ecoicons.eot) format('embedded-opentype'),
+	url(../fonts/ecoicons.eot) format('embedded-opentype'),
+	url(../fonts/ecoicons.woff) format('woff'),
+	url(../fonts/ecoicons.ttf) format('truetype'),
+	url(../fonts/ecoicons.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
